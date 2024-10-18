@@ -1,6 +1,6 @@
-title: "JMC Foundation         www.jmcimpact.org"
+title: "JMC Foundation  -  www.jmcimpact.org"
 author: "JMC Impact"
-description: "JMC Foundation a NJ Nonprofit Corporation     www.jmcimpact.org"
+description: "JMC Foundation a NJ Nonprofit Corporation   -  www.jmcimpact.org"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jmchan228@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/jchan1213"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
