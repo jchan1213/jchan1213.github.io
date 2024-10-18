@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "jmcimpact.pdf", title: "About us"}
+  - {file: "index.md", title: "About us"}
   # - {file: "README.md", title: "About us"}
   - {title: "Blog", file: "blog.md"}
 
