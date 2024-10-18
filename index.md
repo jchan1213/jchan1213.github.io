@@ -5,7 +5,7 @@ title: ""
 
 **JMC Foundation** is a New Jersey-based nonprofit organization dedicated to creating a positive impact in the lives of low-income individuals, immigrants, and the broader Asian community. Our mission is to address some of the most pressing challenges facing these groups, including hunger, education, housing, and cultural preservation.
 
->####At JMC Foundation, we strive to:
+>#### At JMC Foundation, we strive to:
 > - Hunger Relief: Combat food insecurity by supporting local initiatives and providing resources to families in need.
 > - Education: Empower low-income students and immigrant families by offering educational programs, scholarships, and mentorship opportunities.
 > - Family Assistance: Provide essential support to low-income families, ensuring access to basic necessities and services.
