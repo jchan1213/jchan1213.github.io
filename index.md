@@ -14,3 +14,4 @@ At JMC Foundation, we strive to:
 Through collaboration, compassion, and a commitment to social justice, JMC Foundation aims to build stronger, more resilient communities where every individual has the opportunity to thrive.
 
 
+[jmcimpact.pdf](https://github.com/user-attachments/files/17439730/jmcimpact.pdf)
